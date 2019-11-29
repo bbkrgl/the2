@@ -1,6 +1,6 @@
 """
-Author: Burak Köroğlu
-Idea from Yusuf Çelik
+Author: Burak Koroglu
+Idea from Yusuf Celik
 """
 from random import randint
 from the2 import isCovered
