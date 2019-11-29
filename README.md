@@ -1,1 +1,8 @@
-# the2
+# THE2 Tester
+
+To use program execute the code (Only for Linux):
+```bash
+python test.py
+```
+
+If there any wrong cases please contact me.
